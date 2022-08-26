@@ -10,7 +10,7 @@ body{
 
 #calculadora #botones-container{
     display: grid;
-    grid-template: repeat(4,100px)/ repeat(4,1fr)
+    grid-template: repeat(5,100px)/ repeat(4,1fr)
 }
 
 #calculadora button{
